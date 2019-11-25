@@ -11,4 +11,22 @@
     width:100%;
     position:absolute;
     }
-   
+   header{
+       margin-bottom: 60px;
+   }
+   #slider-video{
+    margin-bottom: 50px;
+   }
+
+   #services{
+    margin-bottom: 50px;
+   }
+   #team{
+    margin-bottom: 50px;
+   }
+   #portfolio{
+    margin-bottom: 50px;
+   }
+   #contact{
+    margin-bottom: 50px;
+   }
